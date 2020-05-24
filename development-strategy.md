@@ -14,10 +14,10 @@ __A User can see my initial repository and live demo__
 
 ### Repository
 
-1. Created a new repository [generated](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/) from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
+1. Created a new repository generated from [this template](https://github.com/hackyourfuturebelgium/w3-validation-template)
 1. Clone the repository
 1. Copy-paste the markdown from this file to the empty `development-strategy.md` file in the new repo
-1. Add [this wireframe](./wireframe.gif) into your new repo
+1. Add [this wireframe](./wireframe.gif) into new repo
 1. Start your README file
 1. Push the changes
 1. turn on GitHub Pages
@@ -28,11 +28,11 @@ __A User can see my initial repository and live demo__
 
 __As a site visitor, I want to know what the web page is called__
 
-> assigned to __
+> assigned to Gelila __
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `title`.
+1. This user story was developed locally by Gelila on a brach called `title`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
@@ -53,11 +53,11 @@ __As a site visitor, I want to know what the web page is called__
 
 __As a site visitor, I want to read an introduction to this web page__
 
-> assigned to __
+> assigned to Gelila
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `introduction`.
+1. This user story was developed locally by Gelila on a brach called `introduction`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
@@ -77,11 +77,12 @@ Styling for the new element
 
 __As a site visitor, I want to learn about something cool__
 
-> assigned to __
+> assigned to Anna
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `main-text`.
+
+1. This user story was developed locally by anna on a brach called `main-text`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
@@ -101,11 +102,11 @@ Styling for the new element
 
 __As a site visitor, I want to know where I can learn more__
 
-> assigned to __
+> assigned to Anna
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `references`.
+1. This user story was developed locally by anna on a brach called `references`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
@@ -122,6 +123,7 @@ Styling for the new element
 ---
 
 ## 5. Finishing Touches
+> assigned to Gelila
 
 __As a perfectionist, I want everything perfect :)__
 
