@@ -75,19 +75,19 @@ nav > a:hover{
 	
 
 }
-.main h1{
+.maint h1{
 	text-align: center;
 	color: rgb(24, 24, 88);
 	text-shadow: rgb(177, 195, 235) 0 3px;
 	
 
 }
-.main h2{
+.maint h2{
 	
 	
 }
 
-.main p{
+.maint p{
 text-align:start;
 }
 
@@ -101,7 +101,7 @@ footer{
 /* styling article in the main-text branch */
 
 article {
-	grid-area:s;
+	grid-area:article;
 	font: 15px/1.5 Arial, Helvetica, sans-serif; 
 }
 
