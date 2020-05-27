@@ -59,6 +59,15 @@ nav > a:hover{
 }
 .main{
 	grid-area: main;
+	display: grid;
+	background-color:#038792;
+	opacity: 1;
+	grid-template-rows:1em auto auto 1em;
+	grid-auto-columns:1% 49% 49% 1%;
+	grid-template-areas:". . . ."
+						". maint  maint ."
+						". article article  ."
+						". . . .";
 	background-color: rgba(79, 137, 214, 0.699);
 	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 	padding: 10px;
@@ -92,7 +101,7 @@ footer{
 /* styling article in the main-text branch */
 
 article {
-	grid-area:side;
+	grid-area:s;
 	font: 15px/1.5 Arial, Helvetica, sans-serif; 
 }
 
