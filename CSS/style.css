@@ -39,10 +39,6 @@ header > .icons{
 	grid-area: icons;
 }
 
-
-
-
-
 nav{
 	grid-area: nav;
 	background-color: #DAEFFF;
@@ -61,7 +57,30 @@ nav > a:hover{
 	background-color: #BFBFBF;
 	color: whitesmoke;
 }
+.main{
+	grid-area: main;
+	background-color: rgba(79, 137, 214, 0.699);
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	padding: 10px;
+	
+	
 
+}
+.main h1{
+	text-align: center;
+	color: rgb(24, 24, 88);
+	text-shadow: rgb(177, 195, 235) 0 3px;
+	
+
+}
+.main h2{
+	
+	
+}
+
+.main p{
+text-align:start;
+}
 
 
 footer{
