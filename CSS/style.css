@@ -73,11 +73,12 @@ footer{
 /* styling article in the main-text branch */
 
 article {
+	grid-area:side;
 	font: 15px/1.5 Arial, Helvetica, sans-serif; 
 }
 
  .container-2 {
-	width: 80%;
+	width: 60%;
 	margin: auto; 
 	overflow:hidden; 
 } 
