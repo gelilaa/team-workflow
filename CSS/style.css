@@ -117,7 +117,7 @@ h3 {
 /* styling aside in the references branch */
 
 aside {
-  grid-area: side;
+   grid-area:side;
 	padding: 15px;
 	background-color: #35424a;
 	color: #ffffff;
